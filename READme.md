@@ -5,10 +5,11 @@
 # sudo apt-get install xautomation
 # cd PiSetup
 # mv fullscreen.sh ..
+# cd
 # sudo chmod +x fullscreen.sh
 # sudo nano .bashrc
 #
-# NOW SCROLL TO THE BOTTOM OF THE FILE
+# NOW SCROLL TO THE BOTTOM OF THE FILE, you will need to use arrow keys
 # ONCE YOU HAVE SCROLLED DOWN TO THE ABSOLUTE BOTTOM
 # on a new line type in ./fullscreen.sh
 # Hit ctrl X, type the letter y, then hit enter
