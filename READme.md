@@ -19,3 +19,5 @@
 # THE WEBBROWSER SHOULD OPEN, once open enter in the login credentials and tell it save the password
 # Restart the browser by pressing command (assuming you are using a mac keyboard) and selecting power the reboot.
 # Check to ensure that it reboots into the browser properly
+#
+# NOTE: The startup is on a delay, the fullscreening is on another delay, after login it will take 15 seconds to begin, and 20 seconds to fullscreen if functioning
