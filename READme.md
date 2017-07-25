@@ -1,5 +1,20 @@
 # PiSetup
 
-# Type these in terminal -->
-git clone https://github.com/CoreSignage/PiSetup
-sudo apt-get install xautomation
+# Type these in terminal exactly as written -->
+# git clone https://github.com/CoreSignage/PiSetup
+# sudo apt-get install xautomation
+# cd PiSetup
+# mv fullscreen.sh ..
+# sudo chmod +x fullscreen.sh
+# sudo nano .bashrc
+#
+# NOW SCROLL TO THE BOTTOM OF THE FILE
+# ONCE YOU HAVE SCROLLED DOWN TO THE ABSOLUTE BOTTOM
+# on a new line type in ./fullscreen.sh
+# Hit ctrl X, type the letter y, then hit enter
+#
+# In the main terminal again, type this -->
+# ./fullscreen.sh
+# THE WEBBROWSER SHOULD OPEN, once open enter in the login credentials and tell it save the password
+# Restart the browser by pressing command (assuming you are using a mac keyboard) and selecting power the reboot.
+# Check to ensure that it reboots into the browser properly
