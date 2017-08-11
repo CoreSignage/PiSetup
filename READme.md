@@ -3,6 +3,7 @@
 # Type these in terminal exactly as written -->
 # git clone https://github.com/CoreSignage/PiSetup
 # sudo apt-get install xautomation
+# sudo apt-get install unclutter
 # cd PiSetup
 # mv fullscreen.sh ..
 # cd
